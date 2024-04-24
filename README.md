@@ -1,4 +1,4 @@
-# Todo App
+#Todo React App 📝
 
 A simple web-based todo application that allows users to create and manage their todo notes. Users can add new notes, delete existing ones, and view their todo list.
 
@@ -15,3 +15,4 @@ A simple web-based todo application that allows users to create and manage their
 - JavaScript
 - React
 - NodeJS
+
