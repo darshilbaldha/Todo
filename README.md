@@ -15,3 +15,5 @@ A simple web-based todo application that allows users to create and manage their
 - JavaScript
 - React
 - NodeJS
+
+![Project Logo](images/logo.png)
