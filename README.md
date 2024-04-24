@@ -16,3 +16,4 @@ A simple web-based todo application that allows users to create and manage their
 - React
 - NodeJS
 
+![Screenshot 2024-04-25 001227](https://github.com/darshilbaldha/Todo/assets/141959640/945541af-dd68-458d-a45e-d26d06f99c36)
